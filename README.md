@@ -1,11 +1,15 @@
 # Kubernetes Hands-On
 
 ## Prerequisites
-Windows, Linux, or Mac workstation with minimum of 2 CPU cores and 8GB of RAM
+Windows, Linux, or Mac workstation with minimum of:
+ - 2 CPU cores
+ - 8GB of RAM
+ - 40GB free disk space
+
 Software:
-  - VirtualBox (https://www.virtualbox.org)
-  - Vagrant (https://www.vagrantup.com)
-  - Git (https://git-scm.com/downloads)
+ - VirtualBox (https://www.virtualbox.org)
+ - Vagrant (https://www.vagrantup.com)
+ - Git (https://git-scm.com/downloads)
 
 _(Make sure latest versions are installed)_
 
